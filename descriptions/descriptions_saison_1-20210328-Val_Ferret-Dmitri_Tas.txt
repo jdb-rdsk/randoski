@@ -1,1 +1,5 @@
-Description placeholder
+GPX Analysis Results:
+📉 Minimum Altitude: 1642.7 m
+📈 Maximum Altitude: 2393.9 m
+⛰️  Total Ascent (Denivelation +): 775.4 m
+🏔️  Total Descent (-): 24.2 m
